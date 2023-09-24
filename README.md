@@ -1,19 +1,27 @@
-# cats-site
+# WebStudio
+__ОПИС ПРОЕКТУ__
 
-## Project setup
-```
-npm install
-```
+Реалізовано верстку головної сторінки проекту WebStudio.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<hr>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+__ІНСТРУКЦІЯ З РОЗГОРТАННЯ__
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1.	Завантажити проект із репозиторія та розархівувати його.
+2.	Відкрити розархівований проект в текстовому редакторі (наприклад VS Code).
+3.	В терміналі кореня директорії прописати __npm -i__ (необхідний встановлений node.js що містить npm).
+4.	Зачекати встановлення бібліотек і залежностей.
+5.	Ввести в терміналі команду __npm run serve__ та відкрити проект в браузері по посиланню.
+
+<hr>
+
+__ПЕРЕЛІК ЗАСОБІВ РЕАЛІЗАЦІЇ__
+
+* Vue-3.js + HTML5 + BEM + SCSS
+
+<hr>
+
+__КОНТАКТИ__
+
+1. Telegram: @Kales_Nick
+3. eMail: dezzplaygo@gmail.com
